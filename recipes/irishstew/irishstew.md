@@ -1,4 +1,4 @@
-# Japanese Pilsner Corned Beef Stew with Charred Cabbage & Cheddar-Dill Scones
+# Japanese Pilsner Corned Beef Stew with Charred Cabbage & Cheddar-Dill Buttermilk Scones
 
 **Yield:** 4 Servings
 **Active Time:** ~45 Minutes
@@ -45,12 +45,13 @@
 | Component | Ingredient | Quantity | Notes |
 | :--- | :--- | :--- | :--- |
 | Dry | All-purpose flour | 250g | Plus extra for dusting |
-| Dry | Baking powder | 15g (1 tbsp) | |
+| Dry | Baking powder | 10g (2 tsp) | Reduced slightly to balance the soda |
+| Dry | Baking soda | 2g (1/4 tsp) | For lift and soda-bread flavor |
 | Dry | Kosher salt | 3g (1/2 tsp) | |
 | Fat | Butter (unsalted), very cold | 55g | Cubed |
 | Mix-ins | Sharp cheddar cheese | 100g | Freshly grated |
 | Mix-ins | Fresh dill | 10g | Finely chopped |
-| Liquid | Cold milk | 120ml | Keep an extra splash on standby |
+| Liquid | Cold buttermilk | 120ml | Keep an extra splash on standby |
 
 ### The Condiment
 | Component | Ingredient | Quantity | Notes |
@@ -78,18 +79,22 @@
 * **The Spices:** Toast the coriander, mustard seeds, and peppercorns in a dry pan until fragrant. Grind finely.
 * **The Condiment:** Fold the sour cream, horseradish, chopped dill, and black pepper together in a small bowl. Refrigerate.
 
-### T-Minus 1 Hour 15 Mins: Scone Prep & Oven Preheat
+### T-Minus 1 Hour 15 Mins: Scone Dry Prep & Oven Preheat
 * **Preheat Oven:** Set your combination steam oven to 375°F (190°C) convection, preparing to utilize the steam burst function (or manual steam bursts) for the initial bake.
-* **Dry Mix:** In a large bowl, whisk together the 250g flour, baking powder, and salt.
+* **Dry Mix:** In a large bowl, whisk together the 250g flour, baking powder, baking soda, and salt.
 * **Cut the Fat:** Cut the cold, cubed butter into the flour using your fingers or a pastry blender until it resembles coarse crumbs.
-* **Fold & Hydrate:** Toss in the grated cheddar and chopped dill. Make a well in the center, pour in the 120ml of cold milk, and gently mix with a fork. If there is dry flour at the bottom, add that extra standby splash of milk drop by drop until a shaggy dough just barely holds together.
-* **Shape:** Turn out onto a lightly floured surface, pat gently into a 2cm thick disc, and cut into 8 wedges. Place on a parchment-lined baking sheet and set aside in the fridge to keep the butter cold.
+* **Fold:** Toss in the grated cheddar and chopped dill. 
+* **Chill:** Do not add liquid yet. Place this entire bowl of dry ingredients and fat into the fridge to stay cold.
 
 ### T-Minus 1 Hour: Build the Stew Base
 * **Caramelize:** Place your Dutch oven over medium heat. Melt the 45g of butter, add the diced onions, and immediately add a generous pinch of kosher salt. Sauté slowly until deeply caramelized (about 15-20 minutes).
 * **The Roux:** Sprinkle the 30g of flour directly over the onions. Stir constantly for 2 minutes to toast the flour.
 * **Deglaze:** Aggressively whisk in the 270ml of Japanese Pilsner, scraping up any fond. Whisk in the 400ml of unsalted stock, the ground toasted spices, and the fresh thyme/parsley. Bring to a gentle simmer.
 * **The Roots:** Add the diced rutabaga and carrots. Let them simmer gently in the gravy.
+
+### T-Minus 25 Mins: Hydrate & Shape Scones
+* **Hydrate:** Pull your chilled dry mix from the fridge. Make a well in the center, pour in the 120ml of cold buttermilk, and gently mix with a fork. If there is dry flour at the bottom, add that extra standby splash of buttermilk drop by drop until a shaggy dough just barely holds together.
+* **Shape:** Turn out onto a lightly floured surface, pat gently into a 2cm thick disc, and cut into 8 wedges. Place on a parchment-lined baking sheet.
 
 ### T-Minus 20 Mins: Bake Scones & Cabbage, Pressure Release & Potato Drop
 * **Bake Scones & Cabbage:** Brush the cabbage wedges with avocado oil and place them on a sheet pan. Transfer both the baking sheet of scones and the sheet pan of cabbage to the preheated oven. Trigger the steam burst for the first 5 minutes of the bake to maximize oven spring for the pastry and gently tenderize the cabbage. Bake for a total of 15-18 minutes.
