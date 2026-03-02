@@ -79,8 +79,8 @@
 * **The Spices:** Toast the coriander, mustard seeds, and peppercorns in a dry pan until fragrant. Grind finely.
 * **The Condiment:** Fold the sour cream, horseradish, chopped dill, and black pepper together in a small bowl. Refrigerate.
 
-### T-Minus 1 Hour 15 Mins: Scone Dry Prep & Oven Preheat
-* **Preheat Oven:** Set your combination steam oven to 375°F (190°C) convection, preparing to utilize the steam burst function (or manual steam bursts) for the initial bake.
+### T-Minus 1 Hour 15 Mins: Scone Dry Prep & Steam Oven Preheat
+* **Preheat Steam Oven:** Set your combination steam oven to 375°F (190°C) convection, preparing to utilize the steam burst function (or manual steam bursts) for the initial bake.
 * **Dry Mix:** In a large bowl, whisk together the 250g flour, baking powder, baking soda, and salt.
 * **Cut the Fat:** Cut the cold, cubed butter into the flour using your fingers or a pastry blender until it resembles coarse crumbs.
 * **Fold:** Toss in the grated cheddar and chopped dill. 
@@ -97,19 +97,19 @@
 * **Shape:** Turn out onto a lightly floured surface, pat gently into a 2cm thick disc, and cut into 8 wedges. Place on a parchment-lined baking sheet.
 
 ### T-Minus 20 Mins: Bake Scones & Cabbage, Pressure Release & Potato Drop
-* **Bake Scones & Cabbage:** Brush the cabbage wedges with avocado oil and place them on a sheet pan. Transfer both the baking sheet of scones and the sheet pan of cabbage to the preheated oven. Trigger the steam burst for the first 5 minutes of the bake to maximize oven spring for the pastry and gently tenderize the cabbage. Bake for a total of 15-18 minutes.
+* **Bake Scones & Cabbage (Combination Steam Oven):** Brush the cabbage wedges with avocado oil and place them on a sheet pan. Transfer both the baking sheet of scones and the sheet pan of cabbage to the preheated combination steam oven. Trigger the steam burst for the first 5 minutes of the bake to maximize oven spring for the pastry and gently tenderize the cabbage. Bake for a total of 15-18 minutes.
 * **Venting:** The pressure cooker timer goes off. Remove it from the heat and let the pressure release naturally.
 * **The Potatoes:** Drop the diced potatoes into the simmering Dutch oven with the rutabaga and carrots.
 
-### T-Minus 10 Mins: The Meat Pull, Glaze & Char
-* **Preheat Broiler:** Turn on your infrared broiler to preheat. Ensure you have two rack heights in mind (higher for cabbage, lower for beef).
+### T-Minus 10 Mins: The Meat Pull, Glaze & Broiler Preheat
+* **Preheat Infrared Broiler:** Turn on your separate, dedicated infrared broiler oven to preheat. Ensure you have two rack heights in mind (higher for cabbage, lower for beef).
 * **Dry the Meat:** Open the pressure cooker. Carefully transfer the tender beef blocks to a cutting board using a slotted spatula or spider. Pat the solid blocks completely bone-dry with paper towels. Discard the salty cooking liquid.
 * **Tighten the Glaze:** Turn the burner under your pre-mixed glaze to medium. Keep a whisk moving and pull it off the heat the exact second it looks syrupy (about 60 seconds).
-* **Char Cabbage:** Transfer the pan of warm, tender cabbage wedges from the oven to the higher rack under the broiler. Watch intently until the edges are deeply charred and blistered (1-3 minutes). Remove and set aside.
-* **Glaze & Char Beef:** Place the intact, dried brisket blocks on a foil-lined sheet pan. Paint the top and sides heavily with the thickened glaze. Drop the oven rack down one level and slide the pan under the broiler for 2 to 4 minutes until a bubbling mahogany crust forms. Remove and let rest.
+* **Char Cabbage (Appliance Transfer):** Remove the pan of warm, tender cabbage wedges from the combination steam oven. Transfer the pan to the higher rack of your preheated infrared broiler oven. Watch intently until the edges are deeply charred and blistered (1-3 minutes). Remove and set aside.
+* **Glaze & Char Beef (Infrared Broiler):** Place the intact, dried brisket blocks on a foil-lined sheet pan. Paint the top and sides heavily with the thickened glaze. Drop the rack in the infrared broiler oven down one level and slide the pan under the heat for 2 to 4 minutes until a bubbling mahogany crust forms. Remove and let rest.
 
 ### T-Minus 5 Mins: Final Assembly & Acid Check
-* **Pull Pastry:** Pull your warm scones from the oven and wrap them in a clean towel.
+* **Pull Pastry:** Pull your warm scones from the combination steam oven and wrap them in a clean towel.
 * **Cube & Chop:** Cube the rested, crusted corned beef blocks into bite-sized pieces using a very sharp slicing knife. Chop the tough core off the blistered cabbage wedges and roughly chop the charred, tender leaves into bite-sized ribbons.
 * **Seasoning & Acid Check:** Taste the stew gravy in the Dutch oven. Stir in the 15ml (1 tbsp) of malt vinegar to cut the richness. Taste again and adjust salt or add a few more drops of vinegar if necessary. The root vegetables should be perfectly tender.
 * **Combine:** Fold the crusted beef cubes into the stew. Let sit on low heat for 3-4 minutes just to ensure everything is piping hot.
