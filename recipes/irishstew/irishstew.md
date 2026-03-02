@@ -1,8 +1,6 @@
 # Japanese Pilsner Corned Beef Stew with Charred Cabbage & Cheddar-Dill Buttermilk Scones
 
-**Yield:** 4 Servings
-**Active Time:** ~45 Minutes
-**Total Time:** ~3.5 Hours (includes 2-hour soak)
+**Yield:** 4 Servings | **Active Time:** ~45 Minutes | **Total Time:** ~3.5 Hours (includes 2-hour soak)
 
 ## Ingredients
 
@@ -16,8 +14,7 @@
 | Component | Ingredient | Quantity | Notes |
 | :--- | :--- | :--- | :--- |
 | The Glaze | Japanese Pilsner | 60ml | Reserved from the stew's beer |
-| The Glaze | Brown sugar | 15g | |
-| The Glaze | Whole grain or Dijon mustard | 15g | |
+| The Glaze | Brown sugar / Whole grain mustard | 15g each | |
 
 ### The Stew Base & Add-ins
 | Component | Ingredient | Quantity | Notes |
@@ -58,61 +55,47 @@
 | :--- | :--- | :--- | :--- |
 | Base | Sour cream | 150g | |
 | Flavor | Prepared horseradish | 30g | Adjust to desired heat level |
-| Flavor | Fresh dill | 10g | Finely chopped |
-| Flavor | Black pepper | To taste | Freshly cracked |
-
----
+| Flavor | Fresh dill / Black pepper | 10g / To taste | Finely chopped / Freshly cracked |
 
 ## Phase 1: The Accelerated Extraction
 
 ### T-Minus 3.5 Hours: The Soak
-* Place the brisket blocks in a large bowl of cold water.
-* Change the water completely every 30 minutes for 2 hours to maximize osmotic extraction of the curing salts.
-
----
+* Place the brisket blocks in a large bowl of cold water, changing the water completely every 30 minutes for 2 hours to maximize osmotic extraction of the curing salts.
 
 ## Phase 2: The Parallel Cook
 
 ### T-Minus 1.5 Hours: Fire the Pressure Cooker & Mise en place
 * **The Meat:** Transfer the soaked brisket blocks to your stove-top pressure cooker. Cover completely with fresh, cold, unsalted water. Add the bay leaf and lightly crushed peppercorns. Put it on your high-output burner on high until it reaches full pressure, then drop the heat to maintain. Set a timer for 55 minutes.
-* **The Glaze Prep:** In a small saucepan, whisk together the 60ml of Pilsner, 15g brown sugar, and 15g mustard. Leave it on a cold burner for later.
-* **The Spices:** Toast the coriander, mustard seeds, and peppercorns in a dry pan until fragrant. Grind finely.
-* **The Condiment:** Fold the sour cream, horseradish, chopped dill, and black pepper together in a small bowl. Refrigerate.
+* **The Glaze Prep:** Whisk together the 60ml of Pilsner, 15g brown sugar, and 15g mustard in a small saucepan. Leave it on a cold burner for later.
+* **Spices & Condiment:** Toast the coriander, mustard seeds, and peppercorns in a dry pan until fragrant, then grind finely. In a small bowl, fold the sour cream, horseradish, chopped dill, and black pepper together. Refrigerate.
 
 ### T-Minus 1 Hour 15 Mins: Scone Dry Prep & Steam Oven Preheat
-* **Preheat Steam Oven:** Set your combination steam oven to 375°F (190°C) convection, preparing to utilize the steam burst function (or manual steam bursts) for the initial bake.
-* **Dry Mix:** In a large bowl, whisk together the 250g flour, baking powder, baking soda, and salt.
-* **Cut the Fat:** Cut the cold, cubed butter into the flour using your fingers or a pastry blender until it resembles coarse crumbs.
-* **Fold:** Toss in the grated cheddar and chopped dill. 
-* **Chill:** Do not add liquid yet. Place this entire bowl of dry ingredients and fat into the fridge to stay cold.
+* **Preheat Steam Oven:** Set your combination steam oven to 375°F (190°C) convection, preparing to utilize the steam burst function for the initial bake.
+* **Dry Mix & Fat:** Whisk together the 250g flour, baking powder, baking soda, and salt. Cut the cold, cubed butter into the flour until it resembles coarse crumbs.
+* **Fold & Chill:** Toss in the grated cheddar and chopped dill. Do not add liquid yet. Place this entire bowl into the fridge to stay cold.
 
 ### T-Minus 1 Hour: Build the Stew Base
-* **Caramelize:** Place your Dutch oven over medium heat. Melt the 45g of butter, add the diced onions, and immediately add a generous pinch of kosher salt. Sauté slowly until deeply caramelized (about 15-20 minutes).
+* **Caramelize:** Place your Dutch oven over medium heat. Melt the 45g of butter, add the diced onions and a generous pinch of kosher salt. Sauté slowly until deeply caramelized (about 15-20 minutes).
 * **The Roux:** Sprinkle the 30g of flour directly over the onions. Stir constantly for 2 minutes to toast the flour.
-* **Deglaze:** Aggressively whisk in the 270ml of Japanese Pilsner, scraping up any fond. Whisk in the 400ml of unsalted stock, the ground toasted spices, and the fresh thyme/parsley. Bring to a gentle simmer.
-* **The Roots:** Add the diced rutabaga and carrots. Let them simmer gently in the gravy.
+* **Deglaze & Simmer:** Aggressively whisk in the 270ml of Pilsner, scraping up any fond. Whisk in the 400ml of unsalted stock, ground toasted spices, and fresh herbs. Bring to a gentle simmer. Add the diced rutabaga and carrots. Let them simmer gently in the gravy.
 
 ### T-Minus 25 Mins: Hydrate & Shape Scones
-* **Hydrate:** Pull your chilled dry mix from the fridge. Make a well in the center, pour in the 120ml of cold buttermilk, and gently mix with a fork. If there is dry flour at the bottom, add that extra standby splash of buttermilk drop by drop until a shaggy dough just barely holds together.
-* **Shape:** Turn out onto a lightly floured surface, pat gently into a 2cm thick disc, and cut into 8 wedges. Place on a parchment-lined baking sheet.
+* **Hydrate & Shape:** Pull your chilled dry mix from the fridge. Make a well, pour in the 120ml of cold buttermilk, and mix with a fork. Add standby buttermilk drop by drop if needed until a shaggy dough forms. Turn out onto a floured surface, pat into a 2cm thick disc, cut into 8 wedges, and place on a parchment-lined baking sheet.
 
 ### T-Minus 20 Mins: Bake Scones & Cabbage, Pressure Release & Potato Drop
-* **Bake Scones & Cabbage (Combination Steam Oven):** Brush the cabbage wedges with avocado oil and place them on a sheet pan. Transfer both the baking sheet of scones and the sheet pan of cabbage to the preheated combination steam oven. Trigger the steam burst for the first 5 minutes of the bake to maximize oven spring for the pastry and gently tenderize the cabbage. Bake for a total of 15-18 minutes.
-* **Venting:** The pressure cooker timer goes off. Remove it from the heat and let the pressure release naturally.
-* **The Potatoes:** Drop the diced potatoes into the simmering Dutch oven with the rutabaga and carrots.
+* **Bake Scones & Cabbage (Steam Oven):** Brush the cabbage wedges with avocado oil and place on a sheet pan. Transfer both the scones and the cabbage to the preheated combination steam oven. Trigger the steam burst for the first 5 minutes. Bake for 15-18 minutes total.
+* **Venting & Potatoes:** The pressure cooker timer goes off. Let the pressure release naturally. Drop the diced potatoes into the simmering Dutch oven.
 
 ### T-Minus 10 Mins: The Meat Pull, Glaze & Broiler Preheat
-* **Preheat Infrared Broiler:** Turn on your separate, dedicated infrared broiler oven to preheat. Ensure you have two rack heights in mind (higher for cabbage, lower for beef).
-* **Dry the Meat:** Open the pressure cooker. Carefully transfer the tender beef blocks to a cutting board using a slotted spatula or spider. Pat the solid blocks completely bone-dry with paper towels. Discard the salty cooking liquid.
-* **Tighten the Glaze:** Turn the burner under your pre-mixed glaze to medium. Keep a whisk moving and pull it off the heat the exact second it looks syrupy (about 60 seconds).
-* **Char Cabbage (Appliance Transfer):** Remove the pan of warm, tender cabbage wedges from the combination steam oven. Transfer the pan to the higher rack of your preheated infrared broiler oven. Watch intently until the edges are deeply charred and blistered (1-3 minutes). Remove and set aside.
-* **Glaze & Char Beef (Infrared Broiler):** Place the intact, dried brisket blocks on a foil-lined sheet pan. Paint the top and sides heavily with the thickened glaze. Drop the rack in the infrared broiler oven down one level and slide the pan under the heat for 2 to 4 minutes until a bubbling mahogany crust forms. Remove and let rest.
+* **Preheat Infrared Broiler:** Turn on your separate infrared broiler oven to preheat. Ensure two rack heights (higher for cabbage, lower for beef).
+* **Dry the Meat:** Open the pressure cooker. Transfer the tender beef blocks to a cutting board using a slotted spatula. Pat the solid blocks completely bone-dry. Discard cooking liquid.
+* **Tighten the Glaze:** Turn the glaze burner to medium. Keep a whisk moving and pull off the heat the exact second it looks syrupy (about 60 seconds).
+* **Char Cabbage (Appliance Transfer):** Transfer the pan of cabbage from the steam oven to the higher rack of your preheated infrared broiler oven. Watch intently until deeply charred and blistered (1-3 minutes). Remove and set aside.
+* **Glaze & Char Beef (Broiler):** Place the dried brisket blocks on a foil-lined sheet pan. Paint heavily with the thickened glaze. Drop the rack in the broiler oven down one level and slide the pan under the heat for 2 to 4 minutes until a bubbling mahogany crust forms. Let rest.
 
 ### T-Minus 5 Mins: Final Assembly & Acid Check
-* **Pull Pastry:** Pull your warm scones from the combination steam oven and wrap them in a clean towel.
-* **Cube & Chop:** Cube the rested, crusted corned beef blocks into bite-sized pieces using a very sharp slicing knife. Chop the tough core off the blistered cabbage wedges and roughly chop the charred, tender leaves into bite-sized ribbons.
-* **Seasoning & Acid Check:** Taste the stew gravy in the Dutch oven. Stir in the 15ml (1 tbsp) of malt vinegar to cut the richness. Taste again and adjust salt or add a few more drops of vinegar if necessary. The root vegetables should be perfectly tender.
-* **Combine:** Fold the crusted beef cubes into the stew. Let sit on low heat for 3-4 minutes just to ensure everything is piping hot.
+* **Pull Pastry & Chop:** Pull the warm scones from the steam oven and wrap in a clean towel. Cube the crusted corned beef into bite-sized pieces using a very sharp slicing knife. Chop the tough core off the cabbage wedges and roughly chop the charred leaves into bite-sized ribbons.
+* **Seasoning Check & Combine:** Taste the stew gravy. Stir in the 15ml of malt vinegar. Taste again and adjust salt or vinegar if necessary. Fold the crusted beef cubes into the stew. Let sit on low heat for 3-4 minutes.
 
 ### T-Minus 0: Plate
-* **Serve:** Ladle the stew into wide bowls. Mound the chopped, charred cabbage ribbons cleanly in the center of the stew, and serve alongside the warm cheddar-dill scones and a dollop of the horseradish cream.
+* **Serve:** Ladle the stew into wide bowls. Mound the charred cabbage ribbons in the center, and serve alongside the warm cheddar-dill scones and horseradish cream.
