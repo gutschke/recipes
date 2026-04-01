@@ -28,8 +28,8 @@
 2. **Bloom the Yeast:** In a small ramekin, combine 10g of the water and 3g of instant dry yeast. Stir to moisten and set aside to proof.
 3. **Microwave the Tangzhong:** In your final mixing bowl, whisk 140g of water and 30g of bread flour until smooth. Microwave for approximately 90 seconds in 20s bursts, whisking after each, until the mixture hits ~65°C (150°F) and forms a thick paste. Whisk in 15g of Goldsaft/molasses while hot.
 4. **Temper and Mix:** While the tangzhong is hot, slowly whisk in the remaining 290g of Guinness to create a smooth, lukewarm base. Whisk in the 16g of salt until dissolved, then add the bloomed yeast. Finally, add the 570g bread flour. Mix by hand until a shaggy dough forms. Rest for 30 minutes (Target temp: 24°C–25°C).
-5. **Knead and Incorporate:** Knead the dough by hand for 4 minutes. Flatten the dough, spread the muesli soaker over the surface, and fold to enclose. Use the pincer method (repeatedly squeezing the dough) to thoroughly cut the grains into the dough matrix until evenly distributed.
-6. **Initial Fermentation:** Cover and let rest at room temperature for 1.5 to 2 hours. Perform two sets of stretch-and-folds spaced 45 minutes apart to build structural tension.
+5. **Incorporate the Soaker:** Dump the muesli soaker directly into the mixing bowl with the rested dough. Reach under the dough, pull a side up, fold it over the center, and punch it down. Rotate the bowl slightly and repeat this stretch-and-punch motion for about 2 minutes until the muesli is evenly distributed. The dough will be extremely slack; do not attempt to force tension at this stage.
+6. **Initial Fermentation:** Cover and let rest at room temperature for 1.5 to 2 hours. Perform two sets of stretch-and-folds spaced 45 minutes apart to build the necessary structural tension.
 7. **Cold Fermentation:** Cover the bowl tightly and transfer to the refrigerator for an overnight cold fermentation of 12 to 18 hours.
 
 #### Day 2: Shaping & Baking

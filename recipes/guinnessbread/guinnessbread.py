@@ -15,12 +15,12 @@ def main():
     <style>
         @page {{
             size: letter;
-            margin: 0.75in;
+            margin: 0.7in;
         }}
         body {{
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-            font-size: 10.5pt;
-            line-height: 1.5;
+            font-size: 10.4pt;
+            line-height: 1.48;
             color: #111;
         }}
         h1 {{
@@ -36,7 +36,7 @@ def main():
         }}
         p > strong {{
             display: block;
-            font-size: 10.5pt;
+            font-size: 10.4pt;
             margin: 1rem 0 0 0;
             color: #222;
             text-transform: uppercase;
@@ -67,7 +67,7 @@ def main():
             margin: 0.3rem 0;
         }}
         ol li {{
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.45rem;
         }}
         hr {{
             border: 0;
