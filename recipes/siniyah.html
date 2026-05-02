@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @page { 
+            size: letter; 
+            margin: 10mm 12mm; 
+            background-color: #faf8f5; 
+        }
+        body { 
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+            font-size: 9.0pt; 
+            color: #2c2a28; 
+            line-height: 1.3; 
+            margin: 0;
+            padding: 0;
+        }
+        .header { 
+            text-align: center; 
+            border-bottom: 2px solid #8c5430; 
+            margin-bottom: 8pt; 
+            padding-bottom: 4pt; 
+            background-color: #8c5430;
+            color: white;
+            padding-top: 8pt;
+            border-radius: 4px;
+        }
+        h1 { font-size: 16pt; margin: 0; text-transform: uppercase; letter-spacing: 1px; color: white; }
+        .subtitle { font-size: 9.0pt; margin-top: 3pt; font-style: italic; color: #f0e6d2; margin-bottom: 6pt;}
+        .content { 
+            column-count: 2; 
+            column-gap: 14pt; 
+        }
+        h2 { 
+            font-size: 11pt; 
+            color: #8c5430; 
+            border-bottom: 1px solid #dcd3c6; 
+            margin-top: 6pt; 
+            margin-bottom: 3pt; 
+            page-break-after: avoid; 
+            break-after: avoid;
+        }
+        h2:first-child { margin-top: 0; }
+        h3 { 
+            font-size: 9.5pt; 
+            margin-top: 3pt; 
+            margin-bottom: 2pt; 
+            color: #444; 
+            page-break-after: avoid; 
+            break-after: avoid;
+        }
+        ul, ol { padding-left: 12pt; margin-bottom: 4pt; margin-top: 0; }
+        li { margin-bottom: 1.5pt; }
+        p.single-step { margin-top: 0; margin-bottom: 4pt; padding-left: 0; }
+        .box { 
+            background-color: #f2eee8; 
+            padding: 6pt; 
+            border-left: 4px solid #8c5430; 
+            margin-bottom: 6pt; 
+            page-break-inside: avoid; 
+            break-inside: avoid;
+        }
+        .ingredient-group { margin-bottom: 2pt; page-break-inside: avoid; break-inside: avoid; }
+        .metric { font-weight: bold; color: #333; }
+        .note { font-style: italic; color: #666; font-size: 8.0pt; margin-bottom: 2pt; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Levantine Siniyah Feast</h1>
+        <div class="subtitle">Baked Lamb in Tahini, Smoked Eggplant Dip, and Jeweled Vermicelli Rice</div>
+    </div>
+
+    <div class="content">
+        <div class="box">
+            <strong>Master Workflow & Tool Sequencing</strong><br>
+            <ol style="margin-top:3pt; margin-bottom:0; padding-left:12pt;">
+                <li><strong>Preheat & Roast:</strong> Oven to 220°C (425°F). Roast cauliflower (25 mins) and eggplants (35-40 mins) on a sheet pan. Lower oven to 200°C (400°F).</li>
+                <li><strong>Meat Prep:</strong> Mix panko and milk for panade; let hydrate. Grind spices. Mix Siniyah base in tared bowl, press into pan, bake 15 mins.</li>
+                <li><strong>Stovetop:</strong> Sauté durum vermicelli, ginger, and spices. Add rice, boiling water, chickpeas, and saffron-salt. Simmer.</li>
+                <li><strong>Blender Tasks:</strong> Emulsify Salatet dressing with xanthan gum. Rinse blender, then process the Mutabal ingredients until smooth.</li>
+                <li><strong>Finish Siniyah:</strong> Whisk tahini sauce in a tared bowl; <em>temper</em> with warm water. Drain fat from lamb, pour sauce, finish baking.</li>
+            </ol>
+        </div>
+
+        <h2>Mutabal (Smoked Eggplant Dip)</h2>
+        <div class="ingredient-group">
+            <ul>
+                <li><span class="metric">400g</span> eggplants (approx. 3-4 small/Asian style)</li>
+                <li><span class="metric">45g</span> premium tahini paste & <span class="metric">30g</span> labneh</li>
+                <li><span class="metric">15ml</span> fresh lemon juice & <span class="metric">5g</span> fine sea salt</li>
+                <li><span class="metric">3g</span> garlic (1 clove), microplaned</li>
+                <li><span class="metric">3g</span> sumac (garnish) & <span class="metric">15ml</span> olive oil</li>
+            </ul>
+        </div>
+        <ol>
+            <li>Pierce eggplants; roast at 220°C (425°F) for 35-40 mins until very soft. Scoop flesh.</li>
+            <li>Place eggplant flesh, tahini, labneh, lemon juice, salt, and garlic into a blender. Process until smooth. Garnish with sumac and oil.</li>
+        </ol>
+
+        <h2>Siniyah (Baked Lamb in Tahini Sauce)</h2>
+        <div class="ingredient-group">
+            <h3>Lamb Base</h3>
+            <ul>
+                <li><span class="metric">40g</span> panko breadcrumbs & <span class="metric">60ml</span> whole milk</li>
+                <li><span class="metric">500g</span> ground lamb</li>
+                <li><span class="metric">120g</span> onion (1 medium), grated and drained</li>
+                <li><span class="metric">30g</span> flat-leaf parsley, finely minced</li>
+                <li><span class="metric">10g</span> sea salt</li>
+                <li>Fresh ground: <span class="metric">3g</span> black pepper, <span class="metric">3g</span> cumin, <span class="metric">3g</span> coriander, <span class="metric">1g</span> cinnamon, <span class="metric">1g</span> cloves, <span class="metric">1g</span> cardamom</li>
+            </ul>
+        </div>
+        <div class="ingredient-group">
+            <h3>Tahini Sauce & Garnish</h3>
+            <ul>
+                <li><span class="metric">200g</span> premium tahini paste</li>
+                <li><span class="metric">70ml</span> fresh lemon juice & zest of 1 lemon</li>
+                <li><span class="metric">200ml</span> warm water</li>
+                <li><span class="metric">40g</span> pine nuts, toasted & <span class="metric">2g</span> sumac</li>
+            </ul>
+        </div>
+        <ol>
+            <li>Oven at 200°C (400°F). Combine panko and milk; rest 5 mins.</li>
+            <li>In tared bowl, combine lamb, panade, onion, parsley, salt, and spices. Knead. Press into baking dish (<span class="metric">2cm</span> thick). Bake 15 mins.</li>
+            <li>Wipe bowl. Whisk tahini, lemon juice, and zest. <strong>Temper:</strong> stream warm water while whisking until velvety.</li>
+            <li>Drain fat. Pour tahini sauce over lamb. Bake 10-12 mins. Top with pine nuts and sumac.</li>
+        </ol>
+
+        <h2>Spiced Vermicelli Rice with Chickpeas</h2>
+        <div class="ingredient-group">
+            <ul>
+                <li><span class="metric">8g</span> fine sea salt ground with <span class="metric">0.1g</span> saffron threads</li>
+                <li><span class="metric">45g</span> butter or ghee</li>
+                <li><span class="metric">50g</span> durum wheat vermicelli, crushed</li>
+                <li><span class="metric">4g</span> fresh ginger, microplaned</li>
+                <li><span class="metric">2g</span> cinnamon & <span class="metric">2g</span> cardamom (ground)</li>
+                <li><span class="metric">1g</span> each: ground cumin, cloves</li>
+                <li><span class="metric">300g</span> Basmati rice, rinsed well</li>
+                <li><span class="metric">150g</span> canned chickpeas, rinsed</li>
+                <li><span class="metric">550ml</span> boiling water</li>
+                <li><span class="metric">30g</span> fresh dill, chopped & <span class="metric">1g</span> rose petals</li>
+            </ul>
+        </div>
+        <ol>
+            <li>Melt butter over medium heat. Sauté vermicelli until golden.</li>
+            <li>Add ginger, cinnamon, cardamom, cumin, cloves. Toast 30s.</li>
+            <li>Add rice. Toast 2 mins. Stir in chickpeas, boiling water, and saffron-salt powder.</li>
+            <li>Cover, simmer on lowest heat 15 mins. Steam off-heat 10 mins. Fluff, fold in dill, garnish with rose petals.</li>
+        </ol>
+
+        <h2>Zahra (Spiced Roasted Cauliflower)</h2>
+        <div class="ingredient-group">
+            <ul>
+                <li><span class="metric">500g</span> cauliflower florets & <span class="metric">30ml</span> olive oil</li>
+                <li><span class="metric">5g</span> fine sea salt & <span class="metric">0.1g</span> saffron threads (ground together)</li>
+                <li><span class="metric">5g</span> ground cumin, <span class="metric">4g</span> ground coriander, <span class="metric">1g</span> granulated garlic</li>
+            </ul>
+        </div>
+        <p class="single-step">Toss florets with oil, saffron-salt, and spices. Roast at 220°C (425°F) for 25 mins.</p>
+
+        <h2>Salatet Banadora (Tomato & Cucumber Salad)</h2>
+        <div class="ingredient-group">
+            <ul>
+                <li><span class="metric">400g</span> tomatoes & <span class="metric">200g</span> Persian cucumbers, diced</li>
+                <li><span class="metric">30g</span> scallions, sliced</li>
+                <li>Dressing: <span class="metric">45ml</span> EVOO, <span class="metric">15ml</span> lemon juice, <span class="metric">4g</span> sumac, <span class="metric">3g</span> fine sea salt, <span class="metric">2g</span> sugar, <span class="metric">1g</span> dried mint, <span class="metric">0.1g</span> xanthan gum</li>
+            </ul>
+        </div>
+        <p class="single-step">Combine dressing ingredients in a blender. Process until fully emulsified and stabilized. Toss with vegetables just before serving.</p>
+        
+        <h2>Quick Turnip & Cured Lemon Snack</h2>
+        <div class="ingredient-group">
+            <ul>
+                <li><span class="metric">250g</span> purple top turnip, sliced thin</li>
+                <li><span class="metric">15g</span> salt-cured lemon rind, minced</li>
+                <li><span class="metric">15ml</span> fresh lemon juice & <span class="metric">3g</span> sumac</li>
+            </ul>
+        </div>
+        <p class="single-step">Toss turnip with cured lemon, juice, and sumac. Stand 10 mins.</p>
+
+    </div>
+</body>
+</html>
