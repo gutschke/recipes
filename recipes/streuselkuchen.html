@@ -1,122 +1,148 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-  <head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
     <title>Streuselkuchen</title>
     <style>
-      p {
-        font-size:      12pt;
-        width:          80%;
-        text-align:     justify;
-      }
-      h1 {
-        text-align:     center;
-        font-family:    sans-serif;
-        font-size:      20pt;
-        font-weight:    lighter;
-        padding-bottom: 1ex;
-      }
-      .ingredients {
-        font-family:    sans-serif;
-        font-size:      8pt;
-        float:          left;
-        padding-right:  1.2ex;
-        padding-bottom: 1.2ex;
-      }
-      .ingredients td {
-        vertical-align: top;
-      }
-      .ingredients td + td {
-        font-style:     italic;
-      }
-      @media print {
-        em {
-          font-family:  sans-serif;
+        *, *::before, *::after {
+            box-sizing: border-box;
         }
-      }
+        @page {
+            size: letter portrait;
+            margin: 0.6in;
+            background-color: #fdfaf6;
+        }
+        body {
+            font-family: 'Georgia', serif;
+            font-size: 9.0pt;
+            line-height: 1.4;
+            color: #3e3832;
+            margin: 0;
+            padding: 0;
+            background-color: #fdfaf6;
+        }
+        .header-banner {
+            text-align: center;
+            margin-bottom: 1.5em;
+            padding-bottom: 1em;
+            border-bottom: 1px solid #d4cbb8;
+            column-span: all;
+        }
+        h1 {
+            font-size: 2.2em;
+            margin: 0 0 0.2em 0;
+            font-family: 'Georgia', serif;
+            font-weight: normal;
+            color: #2c251e;
+            letter-spacing: 1px;
+        }
+        .subtitle {
+            font-style: italic;
+            color: #7a6e5d;
+            font-size: 1.1em;
+        }
+        .container {
+            column-count: 2;
+            column-gap: 0.5in;
+        }
+        h2 {
+            font-size: 1.25em;
+            border-bottom: 1px solid #e0d8c8;
+            padding-bottom: 0.2em;
+            margin-top: 1.2em;
+            margin-bottom: 0.6em;
+            color: #5c4e3e;
+            break-after: avoid;
+            font-family: 'Georgia', serif;
+        }
+        h3 {
+            font-size: 1.1em;
+            margin-top: 1em;
+            margin-bottom: 0.4em;
+            color: #6d5d4b;
+            break-after: avoid;
+        }
+        ul, ol {
+            margin-top: 0;
+            padding-left: 1.4em;
+            margin-bottom: 1em;
+        }
+        li {
+            margin-bottom: 0.4em;
+        }
+        .variation-box {
+            background-color: #f5eedf;
+            border-left: 4px solid #b8a68b;
+            padding: 0.8em 1em;
+            margin-top: 1.5em;
+            break-inside: avoid;
+            font-size: 0.95em;
+        }
+        .variation-box h3 {
+            margin-top: 0;
+            color: #4a3e30;
+        }
+        strong {
+            color: #2c251e;
+        }
     </style>
-  </head>
-  <body>
-    <h1>Streuselkuchen<br /><span style="font-size: smaller">Funeral Cake</span></h1>
-
-    <div class="ingredients">
-      <table>
-        <tr><td>2 cups</td>
-            <td>milk</td></tr>
-        <tr><td>&#189; cup</td>
-            <td>sugar</td></tr>
-        <tr><td>1 tsp</td>
-            <td>dry yeast</td></tr>
-        <tr><td>5 cups</td>
-            <td>flour</td></tr>
-        <tr><td colspan=2>&#9671;</td></tr>
-        <tr><td>&#189; lb</td>
-            <td>butter</td></tr>
-        <tr><td>1&#188; cups</td>
-            <td>sugar</td></tr>
-        <tr><td>2&#188; cups</td>
-            <td>flour</td></tr>
-        <tr><td>&#189; cup</td>
-            <td>oat flour</td></tr>
-        <tr><td>1 tbsp</td>
-            <td>vanilla extract</td></tr>
-        <tr><td>&#189; tsp</td>
-            <td>ground cinnamon</td></tr>
-        <tr><td>&#188; tsp</td>
-            <td>salt</td></tr>
-      </table>
+</head>
+<body>
+    <div class="header-banner">
+        <h1>Streuselkuchen</h1>
+        <div class="subtitle">Funeral Cake &mdash; Yields one 13" × 18" half-sheet pan</div>
     </div>
-
-    <p>Heat milk and sugar in a non-metallic mixing bowl to body
-    temperature (about 40s in the microwave). Stir to dissolve the
-    sugar. Sprinkle dry yeast over milk, cover with plastic wrap, and
-    let sit for about 15min.</p>
-
-    <p>Make sure butter is at room temperature. If necessary,
-    microwave for about 7s. In a mixing bowl, combine butter, sugar,
-    and half of the flour. With a hand or stand mixer process until
-    butter is evenly incorporated into crumb mixture. Keep processing
-    while adding remaining flour and oat flour one half cup at a
-    time.</p>
-
-    <p>Add vanilla extract, cinnamon, and salt. Evenly mix under
-    crumbs, and set aside.</p>
-
-    <p>Add flour to proofed yeast. Using either the mixer's dough
-    hooks or your hands, incorporate all the flour until the dough
-    comes together in a ball. Remove from mixing bowl and knead
-    vigorously for about 1 min, pushing down hard with the heels of
-    your hands.</p>
-
-    <p>Heat oven to 120&deg;F then turn off. If the oven does not have
-    a setting this low, heat to higher temperature and then crack
-    the oven door open for a minute.</p>
     
-    <p>Form dough into a ball, dust with flour, return to mixing bowl,
-    cover with plastic wrap, and let rise in the oven for about
-    30min. It should approximately double in volume during this
-    time.</p>
+    <div class="container">
+        <h2>Ingredients</h2>
+        
+        <h3>Streusel Topping</h3>
+        <ul>
+            <li>200g butter, room temperature</li>
+            <li>200g sugar</li>
+            <li>250g all-purpose flour</li>
+            <li>50g oat flour</li>
+            <li>15ml vanilla extract</li>
+            <li>&frac12; tsp ground cinnamon</li>
+            <li>1g salt</li>
+        </ul>
 
-    <p>Roll out dough with a rolling pin and transfer to a
-    half-size cookie sheet (13"&times;18"). Make sure that the dough
-    covers the entire cookie sheet evenly and that there are no gaps
-    on the sides.</p>
+        <h3>Yeast Dough</h3>
+        <ul>
+            <li>250ml milk</li>
+            <li>85g sugar</li>
+            <li>8g SAF Gold instant yeast</li>
+            <li>500g all-purpose flour</li>
+            <li>65g butter, room temperature</li>
+            <li>2g salt</li>
+        </ul>
 
-    <p>Evenly sprinkle crumbs over dough, and return to oven. Let rest
-    for at least 30min and up to 8 hours.</p>
+        <div class="variation-box">
+            <h3>Traditional Poppy Seed Paste (Optional)</h3>
+            <ul>
+                <li>450g poppy seeds, ground</li>
+                <li>680g honey</li>
+                <li>160g semolina flour</li>
+                <li>100g almond slivers</li>
+                <li>Water (as needed)</li>
+            </ul>
+        </div>
 
-    <p>Bake in middle of oven for about 35-40min at 325&deg;F or until
-    crust starts turning golden brown.</p>
+        <h2>Instructions</h2>
+        <ol>
+            <li><strong>Prepare for Proofing:</strong> Heat the oven to 50&deg;C / 120&deg;F and then turn it off. If your oven does not hold a temperature this low, heat it slightly higher, turn it off, and crack the door open for a minute to let excess heat escape.</li>
+            <li><strong>Mix the Streusel:</strong> Place a non-metallic mixing bowl on a scale and tare to zero. Add the room-temperature butter, sugar, and roughly half of the all-purpose flour. Using a hand mixer, process until the butter is evenly incorporated. Tare the scale as needed to add the remaining all-purpose flour and oat flour, mixing until distinct crumbs form. Add the vanilla extract, cinnamon, and salt. Transfer the crumbs to a separate container and set aside. <em>Do not wash the mixing bowl.</em></li>
+            <li><strong>Activate the Yeast:</strong> Place the unwashed mixing bowl back on the scale, tare, and add the milk and sugar. Heat the milk mixture to body temperature (about 40 seconds in the microwave), then stir to dissolve the sugar. Sprinkle the yeast over the milk, cover with plastic wrap, and let sit for about 15 minutes until frothy.</li>
+            <li><strong>Mix the Dough:</strong> Tare the scale and measure the flour, butter, and salt directly into the proofed yeast mixture. Using your hands, incorporate all the ingredients until the dough comes together in a cohesive ball. Remove the dough from the bowl and knead vigorously on a work surface for about 1 minute.</li>
+            <li><strong>First Proof:</strong> Form the dough into a ball, dust lightly with flour, and return it to the mixing bowl. Cover with plastic wrap and let it rise in the warmed oven for about 30 minutes. It should approximately double in volume.</li>
+            <li><strong>Shape the Base:</strong> Roll out the dough and transfer it to the 13" &times; 18" cookie sheet. Make sure the dough covers the entire sheet evenly with no gaps around the edges.</li>
+            <li><strong>Final Proof:</strong> Evenly sprinkle the streusel crumbs over the dough. For a <em>same-day bake</em>, return the pan to the warm oven for 30&ndash;45 minutes until noticeably puffy. For an <em>overnight retard</em>, cover the pan tightly with plastic wrap and refrigerate for up to 8 hours; let it sit at room temperature while the oven preheats before baking.</li>
+            <li><strong>Bake:</strong> Remove the pan from the oven if preheating is required. Set the oven to 165&deg;C / 325&deg;F. Bake in the middle rack for 35&ndash;40 minutes, or until the crust begins to turn a golden brown.</li>
+        </ol>
 
-    <p><b>Note:</b> If oat flour is unavailable, it can be made by
-    processing rolled oats in a blender, or it can be substituted by
-    regular flour.</p>
-
-    <p><b>Variation:</b> For a traditional Eastern European twist to
-    this recipe, layer poppy seed paste between dough and crumbs. For
-    the paste, grind 1 lb of poppy seeds in a coffee grinder, boil for
-    about 20min with two cups of honey, one cup of semolina flour, one
-    cup of almond slivers, and enough water to form a thick paste. Let
-    cool to room temperature before applying paste to dough. Increase
-    baking time by about 5 min to adjust for extra weight.</p>
-  </body>
+        <div class="variation-box">
+            <strong>Variation Notes:</strong> If utilizing the poppy seed paste, layer it between the dough base and the streusel topping. Boil the ground poppy seeds for about 20 minutes with the honey, semolina flour, almond slivers, and just enough water to form a thick paste. Allow the paste to cool <em>entirely</em> to room temperature before spreading it onto the raw dough to avoid killing the yeast. Increase the total baking time by about 5 minutes.
+        </div>
+    </div>
+</body>
 </html>
