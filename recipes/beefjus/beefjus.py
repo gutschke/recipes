@@ -42,6 +42,7 @@ A rich, glossy pan sauce utilizing gelatin and cornstarch for superior hot stabi
 
 * 15g Dry red wine, fresh
 * 15g Unsalted butter, cold
+* 2g Worcestershire sauce (optional)
 
 ## Instructions
 
@@ -53,7 +54,7 @@ A rich, glossy pan sauce utilizing gelatin and cornstarch for superior hot stabi
 6. **Incorporate Gelatin:** Add the bloomed gelatin puck directly into the hot, strained jus. Whisk gently until completely dissolved.
 7. **Thicken:** In a small bowl, whisk the 3g of cornstarch and 5g of cold water into a smooth slurry. Whisk the slurry directly into the simmering jus. Cook for 1 to 2 minutes until the sauce slightly thickens and any raw starch flavor cooks out.
 8. **Make-Ahead Storage:** *If making ahead, remove from heat, let cool completely, and store in an airtight container in the refrigerator.*
-9. **Finish:** When ready to serve, gently reheat the jus to a simmer on the stove. Off the heat, whisk in the fresh 15g of red wine and the remaining 15g of cold butter until completely emulsified and glossy. Serve immediately.
+9. **Finish:** When ready to serve, gently reheat the jus to a simmer on the stove. Off the heat, whisk in the fresh 15g of red wine, the Worcestershire sauce, and the remaining 15g of cold butter until completely emulsified and glossy. Serve immediately.
 """
 
 # 2. Convert Markdown to HTML
