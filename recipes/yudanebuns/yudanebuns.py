@@ -29,13 +29,9 @@ TINT = "#fbf3e6"
 RULE = "#e6d2b0"
 
 TITLE = "Super-Soft Burger Buns"
-SUBTITLE = "Yudane formula, made with a quick microwave scald"
-META = ["Makes 4 large buns (~140 g dough each)",
-        "Active ~40 min",
-        "Total ~5½ h",
-        "Bake 160 °C fan (320 °F convection)"]
-SOURCE = ('Adapted from ChainBaker, “Yudane Buns” '
-          '(chainbaker.com/yudane-buns). Same formula; scald method streamlined.')
+SUBTITLE = "Soft enriched buns with a microwave scald"
+META = ["Makes 4 large buns", "About 5½ h, 40 min of it active"]
+SOURCE = 'Adapted from ChainBaker’s yudane buns (chainbaker.com/yudane-buns).'
 
 # (name, grams-or-text, baker's % of total flour or None, note)
 FLOUR_TOTAL = 300
@@ -46,87 +42,67 @@ INGREDIENTS = [
         ("Milk", 150, "", ""),
     ]),
     ("Dough", [
-        ("Egg yolk", 20, "", "1 large egg; keep the white"),
+        ("Water", 10, "", "to dissolve the yeast"),
+        ("Instant yeast", 4, "", "or 4.8 g active dry / 12 g fresh"),
+        ("Egg yolk", 20, "", "1 large egg (20–25 g)"),
         ("Sugar", 20, "", ""),
         ("Salt", 6, "", ""),
         ("Bread flour", 250, "", ""),
-        ("Instant yeast", 4, "", "or 4.8 g active dry / 12 g fresh"),
-        ("Butter, soft", 20, "", ""),
+        ("Butter, cold", 20, "", "small cubes"),
     ]),
     ("Finish", [
-        ("Egg white", "1", None, "from the egg above"),
+        ("Egg white", "1", None, ""),
         ("Sesame seeds", "", None, "to sprinkle"),
     ]),
 ]
 TOTALS = [
     ("Total flour", 300),
-    ("Total liquid (water + milk)", 200),
-    ("Dough weight", 570),
+    ("Total liquid", 210),
+    ("Dough weight", 580),
 ]
 
 STEPS = [
     ("Scald",
-     "In a tared, microwave-safe mixing bowl, whisk the scald flour, water and "
-     "milk until smooth. Microwave in 20 s bursts, whisking after each, until "
-     "it thickens to a glossy pudding at 65 °C (150 °F). This takes about "
-     "60–90 s, depending on the milk's starting temperature. At 1:4 flour to "
-     "liquid it stays gelatinous instead of setting firm."),
-    ("Cool to ~27 °C (80 °F)",
-     "Cover and let it rest about 45 min, or set the bowl in ice water and "
-     "stir for a few minutes if you are in a hurry. Check with the probe; this "
-     "temperature sets "
-     "the dough temperature (see note). <em>Make-ahead:</em> cover and "
-     "refrigerate for up to 1 day, then warm in short bursts back to ~27 °C."),
-    ("Mix &amp; rest",
-     "Back on the scale, whisk in the yolk, sugar and salt. Add the flour, "
-     "scatter the yeast over it, and mix with a spatula or hand until no dry "
-     "flour remains. Cover and rest 15 min in the bowl. The dough is sticky, "
-     "and this short hydration rest makes it much easier to knead."),
+     "Whisk flour, water and milk in a microwave-safe mixing bowl. Heat in "
+     "20 s bursts, whisking in between, until it thickens at 65 °C (150 °F). "
+     "This takes about 90 s, or a little over 3 min for a double batch."),
+    ("Cool",
+     "Let cool to about 27 °C (80 °F), roughly 45 min. An ice-water bath "
+     "speeds this up. The scald can be made a day ahead and refrigerated; warm "
+     "it back up to 27 °C before using."),
+    ("Mix",
+     "Dissolve the yeast in the water. Add yolk, sugar and salt to the scald "
+     "and stir until dissolved. Add the flour, the yeast and the cold butter "
+     "cut into small cubes, and mix until no dry flour remains. Cover and rest "
+     "for 15 min."),
     ("Knead",
-     "Tip onto an unfloured bench. Stretch-and-fold or slap-and-fold for 6 min. "
-     "Tear in the butter and knead 3 min more, until it is fully absorbed and "
-     "the dough is smooth and elastic. Desired dough temperature: "
-     "<strong>25–26 °C (77–79 °F)</strong>."),
-    ("Bulk",
-     "Round the dough, return it to the scraped-out bowl, cover, and ferment "
-     "for 2–2½ h. Warmer dough is faster and cooler dough slower, so go by "
-     "volume rather than the clock."),
-    ("Divide &amp; shape",
-     "Divide into 4 pieces (~140 g each) and pre-shape loosely. Cover and "
-     "bench-rest 20 min. Shape into tight rounds and set them well apart on a "
-     "parchment-lined sheet."),
-    ("Final proof",
-     "Proof covered for about 2 h, until puffy and a floured fingertip leaves "
-     "a dent that springs back slowly. During the last hour, preheat to "
-     "160 °C fan (320 °F convection)."),
-    ("Glaze &amp; bake",
-     "Brush with egg white, sprinkle with sesame, and press the seeds on with "
-     "your palm. Bake ~25 min, turning the tray halfway through, until golden "
-     "all over. Check at 18 min. Internal temperature ~90 °C (195 °F). Cool "
-     "on a rack."),
+     "Tip onto the counter and knead for about 9 min using stretch-and-folds. "
+     "The dough is sticky at first, and the butter works itself in. Desired "
+     "dough temperature is 25–26 °C (77–79 °F)."),
+    ("Bulk ferment",
+     "Return to the bowl, cover and ferment for 2 to 2½ h."),
+    ("Shape",
+     "Divide into 4 pieces of about 145 g, pre-shape and rest for 20 min. "
+     "Shape into tight rounds and place on a parchment-lined baking sheet."),
+    ("Proof",
+     "Proof covered for about 2 h. Preheat the oven to 160 °C (320 °F) fan "
+     "during the last hour."),
+    ("Bake",
+     "Brush with egg white, sprinkle with sesame seeds and press them on "
+     "lightly. Bake for about 25 min until golden brown, rotating halfway "
+     "through. Start checking at 18 min; the inside should reach "
+     "90 °C (195 °F)."),
 ]
 
 NOTES = [
-    ("What changed, and what did not",
-     "The formula is unchanged, including the total flour, water and milk. "
-     "Only the scald method is different. The original yudane pours 50 g "
-     "boiling water over 50 g flour and chills the stiff paste in the fridge "
-     "until fully cold. Here, the same flour is cooked in a looser mix in the "
-     "microwave. That mix gelatinizes reliably, stays soft, mixes in "
-     "easily, and needs only a short rest or an ice bath rather than hours in "
-     "the fridge."),
-    ("Temperature control",
-     "The 250 g scald carries about twice the heat capacity of the 250 g "
-     "flour. Aim for a scald temperature of about "
-     "(3 × 25.5 °C − flour temperature) ÷ 2: about 27 °C for flour at "
-     "21 °C, cooler in a warm kitchen. Hand kneading adds about 1–2 °C."),
-    ("Yeast &amp; substitutions",
-     "Active dry: whisk it into the cooled scald and wait 5 min before adding "
-     "the flour. Fresh: crumble it into the scald. In Europe, bread flour is "
-     "Type 550 (DE), T65 (FR) or “strong” flour (UK). The dough also bakes "
-     "into a soft sandwich loaf in a 1 lb (8½ × 4½ in) tin; bake until it is "
-     "about 93 °C inside. To scale up, multiply everything. A larger scald "
-     "takes longer, so go by the 65 °C reading, not the clock."),
+    ("Dough temperature",
+     "The scald temperature sets the dough temperature. As a rule of thumb, "
+     "scald temperature = (3 × 25.5 °C − flour temperature) ÷&nbsp;2."),
+    ("Variations",
+     "In Europe, use Type 550 (DE), T65 (FR) or strong (UK) bread flour. For "
+     "active dry yeast, give it 5–10 min to bloom. The dough also makes a "
+     "soft sandwich loaf in a 1 lb (8½ × 4½ in) pan; bake until it reaches "
+     "93 °C inside."),
 ]
 
 
